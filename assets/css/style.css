@@ -16,11 +16,17 @@
 .container {
     margin-left: auto;
     margin-right: auto;
-  color: black;
+
+  color:yellow;
 }
 .info {
     display: inline;
     
+}
+body{
+    background-size: 100%;
+    background-repeat: no-repeat;
+   
 }
 #all-info {
     margin-left: 5%;
