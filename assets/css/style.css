@@ -4,19 +4,17 @@
     max-height: 400px;
     max-width: 400px;
     float: left;
+    padding-right: 10px;
     
 }
-/* h1 {
-    color: red;
-} */
-/* h5 {
-    color : red;
-} */
+.row {
+    justify-content: space-evenly;
+}
 
 .container {
     margin-left: auto;
     margin-right: auto;
-
+  
   color:yellow;
 }
 .info {
@@ -52,6 +50,9 @@ h1 {
     background-color: teal;
     color: white;
    margin-bottom: 2%;
+}
+h3 {
+    
 }
 
 .card {
