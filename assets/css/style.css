@@ -55,7 +55,7 @@ h1 {
 
 .card {
     display: flex;
-   
+   padding-top:2px;
 
     width: 18rem;
     Height: 21rem;
