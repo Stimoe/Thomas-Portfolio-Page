@@ -45,6 +45,11 @@ body{
     width: auto;
     background-color: black;
 }
+#second-header {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue
+}
 
 h1 {
     text-align: center;
